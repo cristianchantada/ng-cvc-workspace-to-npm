@@ -19,6 +19,9 @@ export class CvcSideMenuComponent {
   public isAuthenticated = input(false);
   public titleColor = input<TitleColor>(TitleColor.purple);
 
+  public title = input('CVC');
+  public subTitle = input('Corp.');
+
   public onSignOut = output();
   public onSignIn = output();
 

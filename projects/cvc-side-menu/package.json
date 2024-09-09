@@ -1,10 +1,18 @@
 {
   "name": "cvc-side-menu",
+  "version": "0.0.3",
   "repository": {
-    "type": "git"
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/cristianchantada/ng-cvc-workspace-to-npm.git"
   },
-  "version": "0.0.1",
+  "keywords": ["do-not-to-use", "testing-uploads-to-npm"],
+  "license": "MIT",
+  "author": {
+    "name": "Cristian Varela Casas"
+  },
+  "bugs": {
+    "url": "https://github.com/cristianchantada/ng-cvc-workspace-to-npm.git/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^18.2.0",
     "@angular/core": "^18.2.0"
